@@ -1,5 +1,7 @@
 <h1>Project Description</h1>
 
+<h2>Google Cloud credits are provided for this project as part of #AISprint.</h2>
+
 This project is an Auto-Domain Adaptive AI Assistant built using Gemini 3 on Vertex AI and Streamlit.
 
 The system automatically understands the domain, tone, and communication style of a business from uploaded data such as PDFs, CSV/Excel files, images, and website URLs, and then configures itself as a domain-specific AI assistant.
