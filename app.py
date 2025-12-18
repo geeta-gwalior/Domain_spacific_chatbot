@@ -12,8 +12,8 @@ from utils import (
 # =========================
 # VERTEX INIT (LOCKED)
 # =========================
-PROJECT_ID = "gemmaagent-462506"
-LOCATION = "global"
+PROJECT_ID = "xyz"
+LOCATION = ""
 
 vertexai.init(project=PROJECT_ID, location=LOCATION)
 model = GenerativeModel("gemini-3-pro-preview")
