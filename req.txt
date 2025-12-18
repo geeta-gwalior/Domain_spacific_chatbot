@@ -1,0 +1,8 @@
+streamlit
+google-cloud-aiplatform
+pypdf
+pandas
+openpyxl
+requests
+beautifulsoup4
+Pillow
